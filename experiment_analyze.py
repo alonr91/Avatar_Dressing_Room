@@ -109,9 +109,6 @@ def analyzing_questionnaire(input_file_path, output_file_path, questionnaire_fil
 
 # Example usage
 questionnaire_file_path = 'questionnaire.xlsx'
-input_file_path_questionnaire_1 = 'pre_experiment_5_9.xlsx'
-input_file_path_questionnaire_2 = 'post_experiment_5_9.xlsx'
-output_file_path_post = 'post_analyze_5_9.xlsx'
-output_file_path_pre = 'pre_analyze_5_9.xlsx'
+input_file_path_questionnaire_1 = 'post_analyze_4_9_example.xlsx'
+output_file_path_post = 'post_analyze_4_9_example.xlsx'
 analyzing_questionnaire(input_file_path_questionnaire_2, output_file_path_post, questionnaire_file_path)
-analyzing_questionnaire(input_file_path_questionnaire_1, output_file_path_pre, questionnaire_file_path)
