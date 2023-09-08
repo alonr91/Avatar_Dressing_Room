@@ -1,2 +1,3 @@
 # Avatar_Dressing_Room
-This repository include a Python script that automating the experiment data analysis process.
+This repository includes a Python script that automates the experiment data analysis process, along with two excel files:
+Questionnaires and Responses
